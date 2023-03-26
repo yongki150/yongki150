@@ -1,4 +1,4 @@
-### 그룹 스터디
+## 그룹 스터디
 
 [`[종료]` CS스터디 바로가기](https://github.com/cs-study-org/cs-study)
 
