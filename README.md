@@ -1,6 +1,6 @@
 ### 그룹 스터디
 
-[CS 스터디](https://github.com/cs-study-org/cs-study)
+[CS 스터디 바로가기](https://github.com/cs-study-org/cs-study)
 
 ```
 기간:     2021.12-2022.07
@@ -9,7 +9,7 @@
 역할(멘토/스터디장/스터디원): 스터디장
 ```
 
-[PS 스터디](https://github.com/cs-study-org/algorithm-study)
+[PS 스터디 바로가기](https://github.com/cs-study-org/algorithm-study)
 
 ```
 기간:     2022.02-2022.07
@@ -18,7 +18,7 @@
 역할(멘토/스터디장/스터디원): 스터디장
 ```
 
-[JS 스터디](https://github.com/javascript-deep-dive-study-group/online/wiki)
+[JS 스터디 바로가기](https://github.com/javascript-deep-dive-study-group/online/wiki)
 
 ```
 기간:     2023.02-2023.03
@@ -29,4 +29,4 @@
 
 ***
 
-> _이력서에 소개되지 않은 내용을 기술하는 공간입니다._
+> _이력서에 없되 자기소개서에 언급된 내용을 기술하는 공간입니다._
