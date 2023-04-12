@@ -26,7 +26,7 @@
 </td>
 <td align="center">
    <a href="https://leetcode-badge.vercel.app/">
-   <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Problem%20Solved%20Count&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyongki150&logo=leetcode&logoColor=yellow"/>  
+   <img src="https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=Problem%20Solved%20Count&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyongki150&logo=leetcode"/>  
    </a>  
 </td>
 </tr>
