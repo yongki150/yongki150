@@ -2,7 +2,7 @@
 
 <table align="center">
 <tr>
-<td rowspan="2">
+<td>
       
 [CS스터디 바로가기](https://github.com/cs-study-org/cs-study)
 
@@ -25,20 +25,16 @@
 ```
 </td>
 <td align="center">
+<div>
    <a href="https://leetcode.com/yongki150/">
    <img src="https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=Problem%20Solved%20Count&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyongki150&logo=leetcode"/>  
    </a>  
-</td>
-</tr>
-<tr>
-<td>
-  <a href="https://leetcode.com/yongki150/">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=yongki150&theme=dark" alt="LeetCode Badges"/>
-  </a>
+</div>
+<div>
+   <a href="https://leetcode.com/yongki150/">
+   <img src="https://leetcode-badge-showcase.vercel.app/api?username=yongki150&theme=dark" alt="LeetCode Badges"/>
+   </a> 
+</div>
 </td>
 </tr>
 </table>
-
-***
-
-> _이력서에 없되, 자기소개서에 언급된 내용을 기술하는 공간입니다._
