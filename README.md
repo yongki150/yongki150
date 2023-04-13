@@ -1,6 +1,8 @@
-## 그룹 스터디
-
 <table align="center">
+<tr>
+<th>그룹 스터디</th>
+<th>개인 스터디</th>
+</tr>
 <tr>
 <td>
       
@@ -12,11 +14,13 @@
 역할(멘토/스터디장/스터디원): 스터디장
 ```
 [PS스터디 바로가기](https://github.com/cs-study-org/algorithm-study)
+
+[![LeetCode user yongki150](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=%23ffa116&label=LeetCode%20solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyongki150&logo=leetcode)](https://leetcode.com/yongki150/)
 ```
 기간:     2022.02-2022.07
 회차:     13/16(격주)
 역할(멘토/스터디장/스터디원): 스터디장
-```
+```   
 [JS스터디 바로가기](https://github.com/javascript-deep-dive-study-group/online/wiki)
 ```
 기간:     2023.02-2023.03
@@ -25,16 +29,8 @@
 ```
 </td>
 <td align="center">
-<div>
-   <a href="https://leetcode.com/yongki150/">
-   <img src="https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=Problem%20Solved%20Count&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyongki150&logo=leetcode"/>  
-   </a>  
-</div>
-<div>
-   <a href="https://leetcode.com/yongki150/">
-   <img src="https://leetcode-badge-showcase.vercel.app/api?username=yongki150&theme=dark" alt="LeetCode Badges"/>
-   </a> 
-</div>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yongki150)](https://solved.ac/yongki150/)
 </td>
 </tr>
 </table>
