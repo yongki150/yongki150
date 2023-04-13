@@ -25,14 +25,14 @@
 ```
 </td>
 <td align="center">
-   <a href="https://leetcode-badge.vercel.app/">
+   <a href="https://leetcode.com/yongki150/">
    <img src="https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=Problem%20Solved%20Count&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyongki150&logo=leetcode"/>  
    </a>  
 </td>
 </tr>
 <tr>
 <td>
-  <a href="https://leetcode-badge-showcase.vercel.app/">
+  <a href="https://leetcode.com/yongki150/">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=yongki150&theme=dark" alt="LeetCode Badges"/>
   </a>
 </td>
